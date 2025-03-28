@@ -1,5 +1,44 @@
 {
-"userinfo":["xh1","xh2"],
-  "name": "1",
-"versionmessage":"1"
+  "userinfo": {
+    "privacy": {
+      "version": "1.0lief",
+      "msg": "0",
+      "isios": 0,
+      "iosU": "z87xvneqa328",
+      "Area": [
+    {
+          "key": "HK",
+          "name": "1",
+          "value": "lib",
+      "valueinfo": "colid",
+          "code": "yunsdw",
+       "codeinfo": "yunsdw"
+        },
+        {
+          "key": "BD",
+          "name": "1",
+          "value": "httpscontainer",
+          "code": "1", 
+          "valueinfo": "httpscontainer",
+          "codeinfo": "1"
+        },
+        {
+          "key": "2",
+          "name": "1",
+          "valueinfo": "montain",
+          "codeinfo": "",
+           "value": "httpscontainer",
+          "code": "1"
+        }
+      ],
+      "Event": [
+        "test"
+      ],
+      "ID": [
+        "testid"
+      ],
+      "quertip": [
+      ]
+    }
+  }
 }
