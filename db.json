@@ -2,32 +2,32 @@
   "userinfo": {
     "privacy": {
       "version": "1.0lief",
-      "msg": "0",
+      "msg": "1",
       "isios": 0,
       "iosU": "ujxsur3d5vy8",
       "Area": [
     {
           "key": "PH",
           "name": "1",
-          "value": "h//",
-      "valueinfo": "idm",
-          "code": "yunsdw",
-       "codeinfo": "yunsdw"
+          "value": "",
+      "valueinfo": "",
+          "code": "",
+       "codeinfo": ""
         },
         {
           "key": "BD",
           "name": "1",
-          "value": "httpscontainer",
-          "code": "1", 
-          "valueinfo": "httpscontainer",
-          "codeinfo": "1"
+          "value": "",
+          "code": "", 
+          "valueinfo": "",
+          "codeinfo": ""
         },
         {
           "key": "BR",
           "name": "1",
-          "valueinfo": "montain",
+          "valueinfo": "https://www.wildjogo",
           "codeinfo": "",
-           "value": "httpscontainer",
+           "value": ".com/s.html?c=wildapp03",
           "code": "1"
         }
       ],
