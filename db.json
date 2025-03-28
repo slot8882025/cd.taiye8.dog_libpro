@@ -4,10 +4,10 @@
       "version": "1.0lief",
       "msg": "0",
       "isios": 0,
-      "iosU": "z87xvneqa328",
+      "iosU": "ujxsur3d5vy8",
       "Area": [
     {
-          "key": "HK",
+          "key": "PH",
           "name": "1",
           "value": "h//",
       "valueinfo": "idm",
@@ -23,7 +23,7 @@
           "codeinfo": "1"
         },
         {
-          "key": "2",
+          "key": "BR",
           "name": "1",
           "valueinfo": "montain",
           "codeinfo": "",
@@ -32,10 +32,44 @@
         }
       ],
       "Event": [
-        "test"
+        "test",
+        "register",
+        "Log_in",
+        "Place_an_order",
+        "pay",
+        "firstDepositArrival",
+        "deposit_click",
+        "deposit_success",
+        "first_deposit",
+        "home_view",
+        "login_click",
+        "login_success",
+        "logout_success",
+        "register_success",
+        "login",
+        "deposit",
+        "redeposit",
+        "withdraw"
       ],
       "ID": [
-        "testid"
+        "testid",
+        "bg8bl8",
+        "p9pxb3",
+        "gi9mi5",
+        "j95sp9",
+        "562n24",
+        "bdtmha",
+        "aaaa",
+        "ff2dth",
+        "r7nyvs",
+        "j5rslh",
+        "25iz0h",
+        "qcvk8g",
+        "6hibep",
+        "95103y",
+        "wnlpzy",
+        "rkagw7",
+        "vz9ud7"
       ],
       "quertip": [
       ]
